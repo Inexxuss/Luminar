@@ -1,7 +1,7 @@
 # Luminar
 
 ## Overview
-The Automated Brightness Adjuster is a Python-based desktop application that dynamically adjusts your computer screen's brightness by analyzing the light levels captured through your webcam or through screen captures. It's designed to improve visual comfort based on ambient light conditions, particularly useful in environments with varying lighting.
+Luminar is a Python-based desktop application that dynamically adjusts your computer screen's brightness by analyzing the light levels captured through your webcam or through screen captures. It's designed to improve visual comfort based on ambient light conditions, particularly useful in environments with varying lighting.
 
 ## Features
 - **Brightness Analysis**: Automatically analyzes the brightness from the webcam feed or screen captures.
