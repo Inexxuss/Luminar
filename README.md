@@ -4,7 +4,7 @@
 Luminar is a Python-based desktop application that dynamically adjusts your computer screen's brightness by analyzing the light levels captured through your webcam or through screen captures. It's designed to improve visual comfort based on ambient light conditions, particularly useful in environments with varying lighting.
 
 ## Features
-- **Brightness Analysis**: Automatically analyzes the brightness from the webcam feed or screen captures.
+- **Brightness Analysis**: Automatically analyzes the brightness from the webcam or screen captures.
 - **Dual Mode Operation**: Uses webcam if available, otherwise falls back to screen capture mode.
 - **GUI Control**: Provides a simple graphical user interface to toggle automation and adjust brightness manually.
 
